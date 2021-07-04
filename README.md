@@ -12,4 +12,4 @@ Instale correctamente react-native siguiendo las <a href="https://reactnative.de
 1. Descargue el proyecto o clónelo mediante git
 2. Instale las librerías necesarias usando el comando `npm install`
 3. Una vez instaladas las librerías y conecte su dispositivo móvil a su computadora 
-4. Instale la aplicación utilizando el comando `react-native run-android`
+4. Instale la aplicación utilizando el comando `npx react-native run-android`
